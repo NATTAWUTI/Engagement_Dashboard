@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-from pinotdo import connect
-import plotly-express as px
+from pinotdb import connect
+##import plotly-express as px
 from datetime import datetime
 import time
 
