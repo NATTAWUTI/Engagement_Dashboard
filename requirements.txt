@@ -2,3 +2,6 @@ streamlit
 pandas
 datetime
 pinotdb
+plotly
+numpy
+streamlit_autorefresh
