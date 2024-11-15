@@ -74,7 +74,7 @@ level = [row[0] for row in curs_LEVEL]
 
 # Sidebar filter for Genders
 level_select = st.sidebar.multiselect(
-    "Filter by Genders", 
+    "Filter by Level", 
     options=level, 
     default=level
 )
