@@ -17,3 +17,10 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+
+
+
+# UI Dashboard
+![image](https://github.com/user-attachments/assets/b7e979df-6a42-4304-bbd3-e73dcd68593c)
